@@ -4,7 +4,7 @@
 Saya seorang **Wibu** yang yang lebih senang membaca manga daripada nonton anime. Saya memiliki pengalaman dalam **Laravel**, dan saya selalu berusaha untuk mempelajari hal-hal baru setiap hari. <sub style="color:rgba(0,0,0,0.5)">*kecuali js</sub>
 
 ## Statistik GitHub
-[![Muhammad Kusuma's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadKusuma12\rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Muhammad Kusuma's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadKusuma12\&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skillku
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
